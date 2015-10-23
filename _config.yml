@@ -1,6 +1,6 @@
 name: "Mary's cupcakes"
 favicon: null
-layout_spectrum: 0.26815201551653445
+layout_spectrum: 0.98036
 typography_spectrum: 0.02355712349526584
 cta:
   domain: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.02118216920644045
+  brandColors:
+    - '#e8f6f7'
+    - '#898e77'
+    - '#f795bb'
+    - '#5b3a0d'
+    - '#d3294e'
+  brandStrength: 1
   lightness: 0.2473452747799456
   saturation: 0.973773960955441
   rhythmicContrast: 0.09051080886274576
