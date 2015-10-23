@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mary's cupcakes]]></title>
+        <description><![CDATA[Mary's cupcakes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Oct 2015 21:21:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We do the best cupcakes in the world]]></title>
+            <description><![CDATA[<h1>We do the best cupcakes in the world</h1>]]></description>
+            <link>undefinedwe-do-the-best-cupcakes-in-the-world/index.html</link>
+            <guid isPermaLink="false">718ecba5-02ab-4a36-9a9d-a3419c096185</guid>
+            <pubDate>Fri, 23 Oct 2015 21:21:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
